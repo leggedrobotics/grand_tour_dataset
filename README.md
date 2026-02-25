@@ -25,7 +25,7 @@ Please first visit the [official webpage](https://grand-tour.leggedrobotics.com/
 
 - 📄 **GrandTour dataset paper (arXiv preprint):** [https://arxiv.org/abs/2602.18164](https://arxiv.org/abs/2602.18164)
 - 🌐 **Official dataset page:** [https://grand-tour.leggedrobotics.com/dataset](https://grand-tour.leggedrobotics.com/dataset)
-- 🧭 **Localization challenge page:** [https://grand-tour.leggedrobotics.com/tasks/localization](https://grand-tour.leggedrobotics.com/tasks/localization)
+- 🧭 **Localization challenge page (soon available):** [https://grand-tour.leggedrobotics.com/tasks/localization](https://grand-tour.leggedrobotics.com/tasks/localization)
 - 🤗 **Hugging Face dataset:** [https://huggingface.co/datasets/leggedrobotics/grand_tour_dataset](https://huggingface.co/datasets/leggedrobotics/grand_tour_dataset)
 - 💻 **GrandTour examples repository:** [https://github.com/leggedrobotics/grand_tour_dataset](https://github.com/leggedrobotics/grand_tour_dataset)
 - 🔩 **Boxi software (sensor payload):** [https://github.com/leggedrobotics/grand_tour_box](https://github.com/leggedrobotics/grand_tour_box)
