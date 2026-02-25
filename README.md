@@ -277,16 +277,6 @@ We are particularly looking for contributions in the following areas:
 
 <br>
 
-## News
-
-We're planning a data in field robotics workshop in 2026 and are currently looking for co-organizers and collaborators. We are also planning to write a community paper about this project. Everyone who contributes meaningfully will be included as a co-author.
-
-Let’s build this together — your input matters!
-
----
-
-<br>
-
 ## Citation
 
 ```bibtex
