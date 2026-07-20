@@ -26,7 +26,8 @@ Please first visit the [official webpage](https://grand-tour.leggedrobotics.com/
 
 - 📄 **GrandTour dataset paper (arXiv preprint):** [https://arxiv.org/abs/2602.18164](https://arxiv.org/abs/2602.18164)
 - 🌐 **Official dataset page:** [https://grand-tour.leggedrobotics.com/dataset](https://grand-tour.leggedrobotics.com/dataset)
-- 🧭 **COMFORT Localization Benchmark:** [https://grand-tour.leggedrobotics.com/tasks/localization](https://grand-tour.leggedrobotics.com/tasks/localization)
+- 🧭 **COMFORT Localization Benchmark (Codabench):** [https://www.codabench.org/competitions/17505/](https://www.codabench.org/competitions/17505/)
+- 📋 **Benchmark information and rules:** [https://grand-tour.leggedrobotics.com/tasks/localization](https://grand-tour.leggedrobotics.com/tasks/localization)
 - 🤖 **IROS 2026 workshop — Data in Field Robotics:** [https://jonasfrey96.github.io/data_in_field_robotics/](https://jonasfrey96.github.io/data_in_field_robotics/)
 - 🤗 **Hugging Face dataset:** [https://huggingface.co/datasets/leggedrobotics/grand_tour_dataset](https://huggingface.co/datasets/leggedrobotics/grand_tour_dataset)
 - 💻 **GrandTour examples repository:** [https://github.com/leggedrobotics/grand_tour_dataset](https://github.com/leggedrobotics/grand_tour_dataset)
@@ -40,7 +41,7 @@ Visit our [sponsors and partners](https://grand-tour.leggedrobotics.com/about), 
 
 ## COMFORT Localization Benchmark (IROS 2026)
 
-The [COMFORT Localization Benchmark](https://grand-tour.leggedrobotics.com/tasks/localization)
+The [COMFORT Localization Benchmark](https://www.codabench.org/competitions/17505/)
 evaluates state-estimation and localization methods on GrandTour. It is
 organized with the IROS 2026 workshop
 [**Data in Field Robotics: From State Estimation to Navigation – IROS 2026**](https://jonasfrey96.github.io/data_in_field_robotics/).
@@ -98,8 +99,11 @@ converter.
   and unavailable. Methods must be applicable in real time; post-processing is
   not allowed.
 
-The official [benchmark page](https://grand-tour.leggedrobotics.com/tasks/localization)
-and its linked Codabench pages are authoritative if the rules change.
+Use the official [Codabench benchmark page](https://www.codabench.org/competitions/17505/)
+for submissions and the leaderboard. The
+[GrandTour localization page](https://grand-tour.leggedrobotics.com/tasks/localization)
+contains the benchmark information and rules; these official pages are
+authoritative if anything changes.
 
 ---
 
@@ -386,7 +390,7 @@ We are particularly looking for contributions in the following areas:
 
 ## News
 
-- **2026-07:** The [COMFORT Localization Benchmark](https://grand-tour.leggedrobotics.com/tasks/localization) launched with validation and hidden-test phases for the IROS 2026 workshop [**Data in Field Robotics: From State Estimation to Navigation**](https://jonasfrey96.github.io/data_in_field_robotics/).
+- **2026-07:** The [COMFORT Localization Benchmark](https://www.codabench.org/competitions/17505/) launched with validation and hidden-test phases for the IROS 2026 workshop [**Data in Field Robotics: From State Estimation to Navigation**](https://jonasfrey96.github.io/data_in_field_robotics/).
 - **2026-02:** The **GrandTour dataset paper** is now available as an **arXiv preprint**: [arXiv:2602.18164](https://arxiv.org/abs/2602.18164) (submitted to IJRR).
 - **MCAP (ROS2)** support is listed as **coming soon** on the official dataset page.
 - We continue to expand GrandTour with new deployments, examples, and downstream benchmarks.

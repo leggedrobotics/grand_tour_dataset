@@ -6,7 +6,7 @@ repository-level [quick-start guide](../../README.md#ros1-instructions) covers
 registration, downloading ROS bags, workspace setup, and visualization.
 
 The dataset is also used by the
-[COMFORT Localization Benchmark](https://grand-tour.leggedrobotics.com/tasks/localization),
+[COMFORT Localization Benchmark](https://www.codabench.org/competitions/17505/),
 organized with the IROS 2026 workshop
 [**Data in Field Robotics: From State Estimation to Navigation – IROS 2026**](https://jonasfrey96.github.io/data_in_field_robotics/).
 The most important benchmark requirement is that submitted trajectories must
@@ -236,9 +236,12 @@ caused by omitting the rotating source-to-prism lever arm.
 
 ## COMFORT benchmark quick reference
 
-The official
-[localization challenge page](https://grand-tour.leggedrobotics.com/tasks/localization)
-and its linked Codabench pages are authoritative if the rules change.
+Use the official
+[Codabench benchmark page](https://www.codabench.org/competitions/17505/) for
+submissions and the leaderboard. The
+[GrandTour localization page](https://grand-tour.leggedrobotics.com/tasks/localization)
+contains the benchmark information and rules; these official pages are
+authoritative if anything changes.
 
 ### Schedule and mission splits
 
@@ -298,6 +301,8 @@ association still succeeds.
   allowed.
 
 See the [GrandTour dataset page](https://grand-tour.leggedrobotics.com/dataset)
-for mission access and sensor details, and the
-[benchmark page](https://grand-tour.leggedrobotics.com/tasks/localization) for
-the current rules, terms, and submission entry point.
+for mission access and sensor details, the
+[GrandTour localization page](https://grand-tour.leggedrobotics.com/tasks/localization)
+for the current rules and terms, and the
+[Codabench benchmark page](https://www.codabench.org/competitions/17505/) for
+submissions and the leaderboard.
