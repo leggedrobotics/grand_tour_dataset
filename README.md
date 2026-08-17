@@ -112,7 +112,7 @@ authoritative if anything changes.
 ## Projects using the GrandTour Dataset
 
 > This is a growing list of known public projects and papers that use GrandTour
-> data directly or as curated source data. Last literature check: **July 19,
+> data directly or as curated source data. Last literature check: **August 17,
 > 2026**. Citation-only mentions and dataset-comparison tables are not included.
 
 | Project / paper | How GrandTour is used | Preview |
@@ -121,6 +121,7 @@ authoritative if anything changes.
 | [**Forward Dynamics Model Learning (FDM)**](https://github.com/leggedrobotics/fdm) | Learns platform-aware forward dynamics for safer navigation. | <img src="assets/projects/roth2025.png" height="64"/> |
 | [**Holistic Fusion**](https://github.com/leggedrobotics/holistic_fusion) | Evaluates task- and setup-agnostic factor-graph state estimation. | <img src="assets/projects/nubert2025.png" height="64"/> |
 | [**RESPLE: Recursive Spline LIO**](https://asig-x.github.io/resple_web/) | Benchmarks recursive-spline LiDAR-inertial odometry on GrandTour sequences. | <img src="assets/projects/cao2025.png" height="64"/> |
+| [**CAT: Capability-Aware Traversability**](https://capability-aware-traversability.github.io/) | Uses GrandTour as the primary source of quadrupedal examples for capability-aware traversability estimation. | <img src="assets/projects/capezzuto2026.png" height="64"/> |
 | [**GaussGym**](https://escontrela.me/gauss_gym/) | Converts GrandTour scenes into collision-aware 3D Gaussian Splatting simulators for high-throughput navigation and locomotion. | — |
 | [**LiMo: Less Is More (Scalable Visual Navigation)**](https://arxiv.org/abs/2601.17815) | Extends GrandTour deployments with large-scale embodiment-specific navigation trajectories. | — |
 | [**VLD: Visual-Language Goal Distance for RL Navigation**](https://arxiv.org/abs/2512.07976) | Adds five hours of GrandTour trajectories to its self-supervised visual-language distance training corpus. | — |
@@ -139,6 +140,10 @@ authoritative if anything changes.
 | [**G-PROBE**](https://arxiv.org/abs/2607.06782) | Evaluates cross-sensor LiDAR place recognition and localization between `SBB-1` and `SBB-2`. | — |
 | [**Chalito**](https://arxiv.org/abs/2607.09968) | Validates an extensible filter-based quadruped state-estimation library on `Pilatus-Hike2`. | — |
 | [**Model-Based and Neural-Aided Approaches for Dog Dead Reckoning**](https://arxiv.org/abs/2603.07582) | Trains and evaluates inertial dead reckoning on 17 GrandTour ANYmal trajectories. | — |
+| [**Vernata: Self-Supervised LiDAR Point Representations**](https://arxiv.org/abs/2608.06919) | Pretrains multi-teacher LiDAR representations on GrandTour and annotates 3D frames from the `Grindelwald-Canyon` missions. | — |
+| [**FARM: Find Anything using Relational Spatial Memory**](https://arxiv.org/abs/2606.15476) | Builds three of the seven `FARM-Scenes` benchmark scenes (warehouse, construction site, automotive museum) from GrandTour data. | — |
+| [**COIN-BIEVR**](https://icra2026-rigorous-perception.github.io/pdf/pfreundschuh2026.pdf) | Evaluates intensity-augmented LiDAR-inertial odometry on `ETH-1` with the Livox Mid-360, including a range-capped degenerate variant. | — |
+| [**X-IONet**](https://arxiv.org/abs/2511.08277) | Trains and evaluates cross-platform learned inertial odometry on GrandTour CPT7 IMU data against RoNIN and Go2 baselines. | — |
 
 ---
 
